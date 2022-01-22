@@ -6,7 +6,7 @@ order: 10
 ---
 
 We'd love to hear your opinion, ideas or comments. Get in touch with us at
-[contact@comparchmentoring.org](mailto:contact@comparchmentoring.org)
+[comparchsa@gmail.com](mailto:comparchsa@gmail.com)
 
 <iframe class="embedded-form" style="width: 100%;"
 onload='this.style.background = "none";'
