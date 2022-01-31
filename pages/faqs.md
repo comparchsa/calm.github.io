@@ -95,6 +95,11 @@ Yes, you are welcome to do so! For example, a senior Ph.D. student can be a ment
 <p>We welcome mentors from different backgrounds, including (but not limited to) faculty members, industry researchers and engineers, and senior Ph.D. students (e.g., 4th-year and above). Our matching process will take the mentor’s position, expertise, and desired topic into account. </p>
 </details>
 
+<summary>Who will I be potentially mentoring?</summary>
+<p> Mentors may come from various backgrounds, including (but not limited to) undergraduate, master's, and Ph.D. students, as well as industry engineers. You may specify the type of mentees in the mentor sign-up form. </p>
+</details>
+
+
 <details>
 <summary>As a mentor, what amount of load should I expect?</summary>
 <p>During sign-up, we let mentors select the desired meeting frequency, such as once a month, once every two months, or quarterly. We expect each meeting to be half an hour to one hour. Even though this program is long-term, we expect a minimum load from the mentor’s side in each meeting. </p>
@@ -147,7 +152,9 @@ encourage you to inform your advisor.
 <details>
 <summary>What I can do to make the most out of this mentorship?</summary>
 <p>
-We highly encourage mentees to actively lead the communication, such as reaching
+This mentorship is not intended to be an intern-like relationship (if you sign up for the research track). 
+Instead, the goal is to assist your research, by means of brainstorming, getting industry insights, taking feedback on your current project, etc. 
+During the mentorship, we highly encourage mentees to actively lead the communication, such as reaching
 out to the mentor and asking for a schedule that works for both. For each
 meeting, we encourage you to be well-prepared to best benefit from each meeting
 (e.g., prepare a set of slides and/or questions for discussion).
