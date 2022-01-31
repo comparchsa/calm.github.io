@@ -95,6 +95,8 @@ Yes, you are welcome to do so! For example, a senior Ph.D. student can be a ment
 <p>We welcome mentors from different backgrounds, including (but not limited to) faculty members, industry researchers and engineers, and senior Ph.D. students (e.g., 4th-year and above). Our matching process will take the mentor’s position, expertise, and desired topic into account. </p>
 </details>
 
+
+<details>
 <summary>Who will I be potentially mentoring?</summary>
 <p> Mentors may come from various backgrounds, including (but not limited to) undergraduate, master's, and Ph.D. students, as well as industry engineers. You may specify the type of mentees in the mentor sign-up form. </p>
 </details>
