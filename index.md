@@ -41,7 +41,7 @@ Mentor sign up: [Google form](https://forms.gle/hFE1qjvAukd8Jv4x6)
 Mentee sign up: <i>Unfortunately, we are not accepting any new mentees at the moment.</i>
 
 
-#### Acknowledgeme​nts
+## Acknowledgeme​nts
 
 Special thanks to Talia Ringer and the folks at SIGPLAN-M for sharing their
 experience establishing a long-term mentoring program.
