@@ -35,7 +35,7 @@ For more details about CALM, see our [FAQ page]({{ 'pages/faqs.html' | relative_
 
 ## Participation
 
-We are currently running a pilot program that lasts 6 months. Starting from this summer, we will launch our year-long program. Announcements will be available at CASA’s [Twitter](https://twitter.com/comparchsa) and Slack channels.  
+We are currently running a pilot program that lasts 6 months. Starting from this summer, we will launch our year-long program. Announcements will be available at CASA’s [Twitter](https://twitter.com/comparchsa) and [Slack channels](https://forms.gle/NxxgVGAcVmFs5kRcA).  
 
 Mentor sign up: [Google form](https://forms.gle/hFE1qjvAukd8Jv4x6)  
 Mentee sign up: <i>Unfortunately, we are not accepting any new mentees at the moment.</i>
