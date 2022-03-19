@@ -10,7 +10,7 @@ order: 9
     assign sortedCurrentEvents = site.pages 
     | sort:"when-happened-epoch" 
     | reverse 
-    | where_exp: "item", "item.categories contains 'upcoming-event'" 
+    | where_exp: "item", "item.categories contains 'cur-event'" 
 %}
 
 {% if sortedCurrentEvents.size > 0 %}
@@ -28,14 +28,20 @@ order: 9
     assign sortedUpcoming = site.pages 
     | sort:"when-happened-epoch" 
     | reverse 
-    | where_exp: "item", "item.categories contains 'upcoming-event'" 
+    | where_exp: "item", "item.categories contains 'future-event'" 
 %}
 
 {% if sortedUpcoming.size > 0 %}
 <ol>
 
     {% for page in sortedUpcoming %}
-    <li> {{ page.when-happened }} |  <a href="{{page.url}}">{{ page.title }}</a></li>
+    <li> {{ page.when-happened }} |  <a href="{{page.url}}">{{ page.title }}</a></li>        
+    {% if page.preview-img != nil %}
+        <br>
+        <a href="{{ page.url | relative_url }}">
+          <img class="event-thumbnail-img" src="{{ page.preview-img | relative_url }}" alt="{{page.title}} thumbnail image">
+        </a>
+        {% endif %}
     {% endfor %}
 </ol>
 
