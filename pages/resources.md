@@ -10,6 +10,9 @@ Checkout these other helpful resources:
 ## PhD Resources
 - [MyCSPhD](https://mycsphd.org){:target="_blank"} \| Whether, why, and how to get a PhD in Computer Science.
 - [PhD Life Raft](https://thephdliferaft.com){:target="_blank"} \| Blog/podcast where Dr Emma Brodzinski discusses common PhD student issues.
+- [PhD Success Community](https://phdsuccess.eu/phd-success-community){:target="_blank"} \| Network/connect with PhD students from all over Europe.
+- [PhD Forum - Twitter](https://twitter.com/PhDForum){:target="_blank"} \| Twitter community for PhD students.
+
 
 ## Get support
 - [CARES SIGARCH](https://www.sigarch.org/benefits/cares){:target="_blank"} \| Support for people who
