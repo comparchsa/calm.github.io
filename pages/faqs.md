@@ -2,7 +2,7 @@
 title: "FAQs"
 layout: default
 categories: "navigation"
-order: 7
+order: 3
 ---
 
 <script src="{{ 'assets/js/faqs.js' | relative_url }}"></script>

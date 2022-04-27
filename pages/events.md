@@ -2,7 +2,7 @@
 title: "Events"
 layout: default
 categories: "navigation"
-order: 9
+order: 2
 ---
 
 

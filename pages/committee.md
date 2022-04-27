@@ -2,7 +2,7 @@
 title: "Committee"
 layout: default
 categories: "navigation"
-order: 4
+order: 6
 ---
 
 # CALM Committee
