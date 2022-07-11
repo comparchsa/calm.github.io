@@ -32,7 +32,7 @@ Checkout these other helpful resources:
   architecture.
 - [PLTea](https://pltea.github.io){:target="_blank"} \| PLTea is an initiative to bring together the members
   of programming languages community for informal virtual discussions.
-- [WIARCH SIGARCH](https://www.sigarch.org/wicarch){:target="_blank"} \| Community for women studying and working in the field of computer architecture. 
+- [WICarch SIGARCH](https://www.sigarch.org/wicarch){:target="_blank"} \| Community for women studying and working in the field of computer architecture. 
 - [CASA DEI book club](http://comparchsa.org){:target="_blank"} \| Summer DEI reading group.
 
 
