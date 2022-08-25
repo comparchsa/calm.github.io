@@ -35,6 +35,12 @@
   active: true
   category: committee-member
 
+- name: Zixuan Wang
+  photo: /assets/img/committee-membs/zxwang.jpg
+  website: http://thenetadmin.net/
+  active: true
+  category: committee-member
+
 - name: Annus Zulfiqar
   photo: /assets/img/committee-membs/azulfiqar.jpg
   website: https://annuszulfiqar2021.github.io/
