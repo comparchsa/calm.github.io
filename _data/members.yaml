@@ -17,15 +17,15 @@
   active: true
   category: committee-member
 
+- name: Emily Ruppel
+  photo: /assets/img/committee-membs/eruppel.jpg
+  website: https://users.ece.cmu.edu/~eruppel/
+  active: true
+  category: committee-member
+  
 - name: Suyash Mahar
   photo: /assets/img/committee-membs/smahar.jpg
   website: https://suyashmahar.com/
-  active: true
-  category: committee-member
-
-- name: Abdulrahman Mahmoud
-  photo: /assets/img/committee-membs/amahmoud.png
-  website: https://ma3mool.github.io/
   active: true
   category: committee-member
 
@@ -54,10 +54,11 @@
   active: true
   category: co-chairs
 
-- name: Emily Ruppel
-  photo: /assets/img/committee-membs/eruppel.jpg
-  website: https://users.ece.cmu.edu/~eruppel/
+- name: Abdulrahman Mahmoud
+  photo: /assets/img/committee-membs/amahmoud.png
+  website: https://ma3mool.github.io/
   active: true
-  category: co-chairs
+  category: committee-member
+
   
 
