@@ -166,10 +166,7 @@ meeting, we encourage you to be well-prepared to best benefit from each meeting
 <details>
 <summary>I joined the research track. What should I expect?</summary>
 <p>
-The research track aims to help the mentee get feedback on the current project,
-brainstorm new ideas, and/or get new ideas from a mentor in related areas or the
-industry. Please be explicit with your mentor about your expectations in the
-initial stage of this mentorship.
+The research track aims to help the mentee get feedback on the current project, brainstorm new ideas, and/or get new ideas from a mentor in related areas or the industry. Please note that mentors and mentees should reach a mutual agreement about the responsibilities and expectations. In general, the types of things mentees likely cannot expect on include: explicit research advice about their projects, reading the mentees research paper drafts, etc. Some PhD mentors might be willing to do so.
 </p>
 </details>
 
