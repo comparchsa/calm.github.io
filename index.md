@@ -37,8 +37,9 @@ For more details about CALM, see our [FAQ page]({{ 'pages/faqs.html' | relative_
 
 We are currently running a pilot program that lasts 6 months. Starting from this summer, we will launch our year-long program. Announcements will be available at CASA’s [Twitter](https://twitter.com/comparchsa) and [Slack channels](https://forms.gle/NxxgVGAcVmFs5kRcA).  
 
-Mentor sign up: [Google form](https://forms.gle/hFE1qjvAukd8Jv4x6)  
-Mentee sign up: [Google form](https://forms.gle/V5LQQMJJdt3YgeA58)
+Mentor sign up: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc_uZb6wZk10pW-acxKJrfyB4aUwsdi9S_2qX59XAlh6QJdEw/viewform)  
+
+Mentee sign up: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSefS7PUPL5dAUMlx7BIJ8N7QqGbDO5HJ845ZuGYBGH6Zn6ZDg/viewform)
 
 
 ## Acknowledgeme​nts
