@@ -18,13 +18,13 @@ Write the text for the banner between the following tags:
 **Note:** Text inside a banner needs to be formatted using HTML (e.g., `<a
 href="">...</a>` for links.)  
 
-Shows up as:  
+It shows up as:  
 
 > <img src="https://user-images.githubusercontent.com/21097167/159853465-b8340b35-818a-491e-979e-facc8cfe91a3.png" style="height: 80px;">
 
 
-### Creating multi timezone event link
-Create a new `<div></div>` element with the unix timestamps:
+### Creating a multi-timezone event link
+Create a new `<div></div>` element with the Unix timestamps:
 
 ```html
 <div class="time-fmt-local" data-start="1652374800" data-duration="3600" data-show-timezone-link="true"></div>
@@ -35,14 +35,14 @@ Fields:
 2. `data-duration`: Event length in seconds  
 3. `data-show-timezone-link`: Bool to toggle dataandtime.com link  
 
-Shows up as:  
+It shows up as:  
 
 > <img src="https://user-images.githubusercontent.com/21097167/159853047-1bce2b3c-9cec-44e5-895f-c28eb32039e0.png" style="height: 40px;">
 
 
 ### Creating an embedded YouTube Player
 
-Create an embedded YT player with width 420px and 16:9 aspect ratio using the following tags:  
+Create an embedded YT player with a width of 420px and a 16:9 aspect ratio using the following tags:  
 
 ```yml
 {% include start-embedded-yt.html %}
@@ -50,7 +50,7 @@ https://www.youtube.com/embed/j5dCWp3EfOM
 {% include end-embedded-yt.html %}
 ```
 
-Shows up as (when loading):  
+It shows up as (when loading):  
 
 > <img src="https://user-images.githubusercontent.com/21097167/159853581-eb052a09-1f02-4e5f-82c9-7ac90786823d.png" style="height: 90px;">
 
@@ -62,10 +62,10 @@ Shows up as (when loaded):
 
 ### Creating a new event
 Jekyll automatically collects events from the `pages/events` directory and
-organizes them into future, past and current events.
+organizes them into future, past, and current events.
 
 To create a new event, create a new markdown file under `pages/events` with the
-following content:
+the following content:
 
 ```yml
 ---
@@ -80,14 +80,14 @@ preview-img: assets/img/calm-kickoff/yt_thumbnail.jpg <!-- Preview image for eve
 <!-- Markdown content for the event here -->
 ```
 
-Each event should have only one of the following `categories` tag:  
+Each event should have only one of the following `categories` tags:  
 1. `past-event`: Listed under "Past Event"  
 2. `cur-event`: Listed under "Current Events"  
 3. `future-event`: Listed under "Upcoming Events"  
 
-### Creating new tab page (navigation item)
-1. Create a new markdown file in `pages/` directory that starts with the
-   following content:
+### Creating a new tab page (navigation item)
+1. Create a new markdown file in the `pages/` directory that starts with the
+   the following content:
 ```yml
 ---
 title: "Page title here"
@@ -106,7 +106,7 @@ order: 4
 
 ### Configuration variables
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+Minimal will respect the following variables if set in your site's `_config.yml`:
 
 ```yml
 title: [The title of your site]
@@ -120,4 +120,9 @@ logo: [Location of the logo]
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
+
+---
+
+## Security Policy
+Read [SECURITY.md](SECURITY.md), and verify with the [GPG signature](assets/.signature/saketpublickey.asc).
 
