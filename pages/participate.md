@@ -5,18 +5,18 @@ categories: "navigation"
 order: 5
 ---
 
-CALM is currently running a pilot program that pairs around 30 mentees. We have
-collected applications from potential mentees and are looking for mentors who
+CALM is currently in its second year. We are
+collecting applications from potential mentees and are looking for mentors who
 are interested in supporting junior architects. We welcome mentors from
 different backgrounds, including faculties, industry researchers, and senior PhD
 students.
 
 ### Mentors
 If you would like to be a mentor, please fill out [this
-form](https://forms.gle/hFE1qjvAukd8Jv4x6).
+form](https://docs.google.com/forms/d/e/1FAIpQLSc_uZb6wZk10pW-acxKJrfyB4aUwsdi9S_2qX59XAlh6QJdEw/viewform).
 
 ### Mentees
-Sign up on our [google form for mentees](https://forms.gle/V5LQQMJJdt3YgeA58).
+If you are a prospective mentee, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSefS7PUPL5dAUMlx7BIJ8N7QqGbDO5HJ845ZuGYBGH6Zn6ZDg/viewform).
 
 <!-- We will continue to run a year-long program after this pilot program. We will
 start collecting applications for the upcoming year-long program soon. Please
