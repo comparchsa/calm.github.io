@@ -4,8 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 
-📢 We are looking for mentors! Checkout <a href="{{ 'pages/participate.html' |
-relative_url }}">participating in CALM</a>.
+📢 This webpage is <strong>VERY</strong> out of date. Email CASA with any questions you have about the program.
 
 {% include end-banner.html %}
 
