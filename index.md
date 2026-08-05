@@ -4,7 +4,7 @@ layout: default
 
 {% include start-banner.html %}
 
-📢 This webpage is <strong>VERY</strong> out of date. Email CASA with any questions you have about the program.
+📢 Signups for the CALM 2026 Program is closed. Please visit this page again in late 2026 for information about the next year-long mentoring program.
 
 {% include end-banner.html %}
 
@@ -34,12 +34,15 @@ For more details about CALM, see our [FAQ page]({{ 'pages/faqs.html' | relative_
 
 ## Participation
 
-We are currently running a pilot program that lasts 6 months. Starting from this summer, we will launch our year-long program. Announcements will be available at CASA’s [Twitter](https://twitter.com/comparchsa) and [Slack channels](https://forms.gle/NxxgVGAcVmFs5kRcA).  
+We are currently running the 2026 year-long mentoring program. Announcements will be available at CASA’s [Twitter](https://twitter.com/comparchsa) and [Slack channels](https://forms.gle/NxxgVGAcVmFs5kRcA).  
 
-Mentor sign up: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSc_uZb6wZk10pW-acxKJrfyB4aUwsdi9S_2qX59XAlh6QJdEw/viewform)  
+Mentor sign up: The signup form is **closed**. However, we are always on the lookout for mentors. Please [email](info@comparchsa.org) us.
 
-Mentee sign up: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSefS7PUPL5dAUMlx7BIJ8N7QqGbDO5HJ845ZuGYBGH6Zn6ZDg/viewform)
+Mentee sign up: **CLOSED**
 
+## Organizers
+
+Khyati Kiyawat and Haiyue Ma
 
 ## Acknowledgeme​nts
 
